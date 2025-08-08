@@ -1,4 +1,4 @@
-# Audio Notes
+# 🎤 Audio Notes
 
 ## 📋 O projekcie
 
