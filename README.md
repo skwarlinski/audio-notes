@@ -17,6 +17,7 @@ audio-notes/
 ├── requirements.txt
 ├── packages.txt
 ├── .env.example
+├── .gitignore
 ├── .streamlit/
 │   └── config.toml
 │   └── secrets.toml
